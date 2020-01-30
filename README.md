@@ -1,2 +1,0 @@
-# Book-Recommendation-System
-The Book Recommendation System recommends a list of books to the end user. The recommendation is based on the ratings of the books already present in the system. The system inputs ratings for books from the user, finds the most similar books and creates a list of them and provides the list back to the user. This is achieved through matrix factorization using alternating least squares (ALS) algorithm for collaborative filtering. ALS algorithm has been proven to achieve good performance.
